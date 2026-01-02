@@ -1,0 +1,1011 @@
+{
+    "BNV K8": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "BNV K8",
+        "Price": {
+            "Min": 180000,
+            "Max": 230000
+        },
+        "Meshes": [
+            "rbxassetid://123444361139413",
+            "rbxassetid://72154247392943",
+            "rbxassetid://104075047676154",
+            "rbxassetid://91650732789855",
+            "rbxassetid://84181275342788"
+        ],
+        "SpawnChance": 0.05
+    },
+    "Missah JTF": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Missah JTF",
+        "Price": {
+            "Min": 90000,
+            "Max": 130000
+        },
+        "Meshes": [
+            "rbxassetid://132102455447287",
+            "rbxassetid://88179450537029",
+            "rbxassetid://124552424766204",
+            "rbxassetid://85155057098188",
+            "rbxassetid://103437368068457",
+            "rbxassetid://118676679930796",
+            "rbxassetid://78156060213621",
+            "rbxassetid://131463158203418"
+        ],
+        "SpawnChance": 0
+    },
+    "Missah Silva": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Missah Silva",
+        "Price": {
+            "Min": 15000,
+            "Max": 25000
+        },
+        "Meshes": [
+            "rbxassetid://11681123687",
+            "rbxassetid://11681124272",
+            "rbxassetid://11681125663",
+            "rbxassetid://11661205510",
+            "rbxassetid://11661795857",
+            "rbxassetid://11661795622",
+            "rbxassetid://11741897591",
+            "rbxassetid://11661206703",
+            "rbxassetid://11704961813",
+            "rbxassetid://11681124932",
+            "rbxassetid://11661202347",
+            "rbxassetid://11681125458",
+            "rbxassetid://11761058175",
+            "rbxassetid://11661205749",
+            "rbxassetid://11681128181",
+            "rbxassetid://138432908968681",
+            "rbxassetid://11761057929",
+            "rbxassetid://11661204529",
+            "rbxassetid://11681130622",
+            "rbxassetid://11661200645",
+            "rbxassetid://11661204837",
+            "rbxassetid://11661200427",
+            "rbxassetid://11681130337",
+            "rbxassetid://11661204154",
+            "rbxassetid://11681124582",
+            "rbxassetid://11704961802"
+        ],
+        "SpawnChance": 10
+    },
+    "Auidy RF3": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Auidy RF3",
+        "Price": {
+            "Min": 40000,
+            "Max": 55000
+        },
+        "Meshes": [
+            "rbxassetid://133733719907243",
+            "rbxassetid://128881514877095",
+            "rbxassetid://138752514448040",
+            "rbxassetid://131161701193698",
+            "rbxassetid://114504872129870",
+            "rbxassetid://81638116995310",
+            "rbxassetid://70623794677617",
+            "rbxassetid://96140005404422",
+            "rbxassetid://138976048452573",
+            "rbxassetid://76434081161020",
+            "rbxassetid://127286786938706",
+            "rbxassetid://100745862709390",
+            "rbxassetid://112369564828765"
+        ],
+        "SpawnChance": 0.6
+    },
+    "Holde Ciwiq": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "Holde Ciwiq",
+        "Price": {
+            "Min": 5000,
+            "Max": 15000
+        },
+        "Meshes": [
+            "rbxassetid://9573106626",
+            "rbxassetid://9573098334",
+            "rbxassetid://9579630185",
+            "rbxassetid://9572964431",
+            "rbxassetid://9572959506",
+            "rbxassetid://9573091718",
+            "rbxassetid://9573067636",
+            "rbxassetid://9572956320"
+        ],
+        "SpawnChance": 11
+    },
+    "Lokswag Golo GT": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Lokswag Golo GT",
+        "Price": {
+            "Min": 25000,
+            "Max": 55000
+        },
+        "Meshes": [
+            "rbxassetid://116277316894612",
+            "rbxassetid://119707626655604",
+            "rbxassetid://78736736016277",
+            "rbxassetid://110560011455066",
+            "rbxassetid://77594399483216",
+            "rbxassetid://102259379043672",
+            "rbxassetid://95718656968202",
+            "rbxassetid://136485263444747",
+            "rbxassetid://104589082376941",
+            "rbxassetid://108533601206512",
+            "rbxassetid://95447021158367",
+            "rbxassetid://103357390600716"
+        ],
+        "SpawnChance": 2
+    },
+    "Chule Curgete": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Chule Curgete",
+        "Price": {
+            "Min": 65000,
+            "Max": 120000
+        },
+        "Meshes": [
+            "rbxassetid://125689248515809",
+            "rbxassetid://97325139430974",
+            "rbxassetid://139915714951732",
+            "rbxassetid://86351974628623",
+            "rbxassetid://93645109825798",
+            "rbxassetid://139174571853970",
+            "rbxassetid://136509739513091",
+            "rbxassetid://74441134940808",
+            "rbxassetid://102594655456728",
+            "rbxassetid://105652307675270"
+        ],
+        "SpawnChance": 0.1
+    },
+    "Sacode Oitava": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Sacode Oitava",
+        "Price": {
+            "Min": 8000,
+            "Max": 14000
+        },
+        "Meshes": [
+            "rbxassetid://133454454999797",
+            "rbxassetid://129252056740734",
+            "rbxassetid://79446715390097",
+            "rbxassetid://127477210628473",
+            "rbxassetid://90830102869773",
+            "rbxassetid://127554646401991",
+            "rbxassetid://92211321085499",
+            "rbxassetid://73749612501213",
+            "rbxassetid://72540445755202",
+            "rbxassetid://128745585755728",
+            "rbxassetid://97463654942575",
+            "rbxassetid://131021767972278",
+            "rbxassetid://127911242310425",
+            "rbxassetid://109993790647309"
+        ],
+        "SpawnChance": 20
+    },
+    "Peujo 200e6": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "Peujo 200e6",
+        "Price": {
+            "Min": 1000,
+            "Max": 4000
+        },
+        "Meshes": [
+            "rbxassetid://130597907242010",
+            "rbxassetid://90210475276123"
+        ],
+        "SpawnChance": 50
+    },
+    "Toyoda Hellox": {
+        "ProfitMultiplier": 0.4,
+        "BodyName": "Toyoda Hellox",
+        "Price": {
+            "Min": 28000,
+            "Max": 40000
+        },
+        "Meshes": [
+            "rbxassetid://87776616428734",
+            "rbxassetid://105737384935551",
+            "rbxassetid://87040602389338",
+            "rbxassetid://95902395406466",
+            "rbxassetid://78695499579683",
+            "rbxassetid://123176174887680"
+        ],
+        "SpawnChance": 7
+    },
+    "BNV K3": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "BNV K3",
+        "Price": {
+            "Min": 9000,
+            "Max": 20000
+        },
+        "Meshes": [
+            "rbxassetid://1248837742",
+            "rbxassetid://1248847438",
+            "rbxassetid://1248871112",
+            "rbxassetid://1248847797",
+            "rbxassetid://1248844486",
+            "rbxassetid://1248842414",
+            "rbxassetid://1248857097",
+            "rbxassetid://1248855641",
+            "rbxassetid://1248852389"
+        ],
+        "SpawnChance": 10
+    },
+    "Fia-Te Ponto": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "Fia-Te Ponto",
+        "Price": {
+            "Min": 700,
+            "Max": 3000
+        },
+        "Meshes": [
+            "rbxassetid://6029187929",
+            "rbxassetid://6029186294",
+            "rbxassetid://6029191483",
+            "rbxassetid://6029184640",
+            "rbxassetid://6029185476",
+            "rbxassetid://6029188782",
+            "rbxassetid://6029186434",
+            "rbxassetid://6029186883",
+            "rbxassetid://6029185322",
+            "rbxassetid://6029190796",
+            "rbxassetid://6029186031"
+        ],
+        "SpawnChance": 50
+    },
+    "Auidy V7": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Auidy V7",
+        "Price": {
+            "Min": 50000,
+            "Max": 100000
+        },
+        "Meshes": [
+            "rbxassetid://11185590250",
+            "rbxassetid://11185593993",
+            "rbxassetid://11185602142",
+            "rbxassetid://11185604136",
+            "rbxassetid://11185609534",
+            "rbxassetid://11185595226",
+            "rbxassetid://11185592056",
+            "rbxassetid://11185590966",
+            "rbxassetid://11185603113",
+            "rbxassetid://11185591513",
+            "rbxassetid://11185598826",
+            "rbxassetid://11185594614",
+            "rbxassetid://11185599269",
+            "rbxassetid://11185606193",
+            "rbxassetid://11185589867",
+            "rbxassetid://11185602412",
+            "rbxassetid://11185600191",
+            "rbxassetid://11185596447",
+            "rbxassetid://11185597411",
+            "rbxassetid://11185590644",
+            "rbxassetid://11185598329",
+            "rbxassetid://11185595651",
+            "rbxassetid://99097213712193",
+            "rbxassetid://11185596915",
+            "rbxassetid://11185596089",
+            "rbxassetid://11185605775",
+            "rbxassetid://11185597844",
+            "rbxassetid://11185598569",
+            "rbxassetid://11185601511",
+            "rbxassetid://11185601034",
+            "rbxassetid://11185692063"
+        ],
+        "SpawnChance": 0.1
+    },
+    "Auidy V5": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Auidy V5",
+        "Price": {
+            "Min": 40000,
+            "Max": 55000
+        },
+        "Meshes": [
+            "rbxassetid://97129630414723",
+            "rbxassetid://81452292821493",
+            "rbxassetid://95482021838580",
+            "rbxassetid://89295677225750",
+            "rbxassetid://121881059700128",
+            "rbxassetid://120636424599526",
+            "rbxassetid://134968034232016",
+            "rbxassetid://137347208815851",
+            "rbxassetid://81452292821493"
+        ],
+        "SpawnChance": 1
+    },
+    "BNV K4 G": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "BNV K4 G",
+        "Price": [],
+        "Meshes": [
+            "rbxassetid://124151666835074",
+            "rbxassetid://94979746707046",
+            "rbxassetid://96196737005315",
+            "rbxassetid://93480320198406",
+            "rbxassetid://80875934308276",
+            "rbxassetid://134625991913012",
+            "rbxassetid://87623349121750",
+            "rbxassetid://114569046455159",
+            "rbxassetid://91009425370941",
+            "rbxassetid://93429875199242",
+            "rbxassetid://90382458449809",
+            "rbxassetid://134281629167385"
+        ],
+        "SpawnChance": 0
+    },
+    "Leskus not200": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Leskus not200",
+        "Price": {
+            "Min": 9000,
+            "Max": 20000
+        },
+        "Meshes": [
+            "rbxassetid://75683405528203",
+            "rbxassetid://118677431984141",
+            "rbxassetid://77338342975089",
+            "rbxassetid://137684472392935",
+            "rbxassetid://87665007786378",
+            "rbxassetid://95205291004165",
+            "rbxassetid://140285143790958",
+            "rbxassetid://113178114344386",
+            "rbxassetid://138809563131635",
+            "rbxassetid://118006844987381",
+            "rbxassetid://138282602244810",
+            "rbxassetid://100519065700931",
+            "rbxassetid://94859843717761"
+        ],
+        "SpawnChance": 10
+    },
+    "BNV K140": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "BNV K140",
+        "Price": {
+            "Min": 50000,
+            "Max": 100000
+        },
+        "Meshes": [
+            "rbxassetid://71873065720623",
+            "rbxassetid://73358194801121",
+            "rbxassetid://76698628470632",
+            "rbxassetid://90849486122250",
+            "rbxassetid://105379361951762",
+            "rbxassetid://120590878552892"
+        ],
+        "SpawnChance": 0
+    },
+    "BNV K5 e39": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "BNV K5 e39",
+        "Price": {
+            "Min": 20000,
+            "Max": 50000
+        },
+        "Meshes": [
+            "rbxassetid://95311686892501",
+            "rbxassetid://95934666248085",
+            "rbxassetid://88326307816902",
+            "rbxassetid://111275912511429",
+            "rbxassetid://125871109882192",
+            "rbxassetid://116065532662076",
+            "rbxassetid://80380438671426",
+            "rbxassetid://80345112524583",
+            "rbxassetid://135141696247264",
+            "rbxassetid://71513362483502",
+            "rbxassetid://71245122124116",
+            "rbxassetid://122999804120517",
+            "rbxassetid://106010920266570"
+        ],
+        "SpawnChance": 3
+    },
+    "Merquis Z73": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Merquis Z73",
+        "Price": {
+            "Min": 35000,
+            "Max": 65000
+        },
+        "Meshes": [
+            "rbxassetid://17496679961",
+            "rbxassetid://17496679370",
+            "rbxassetid://17496680922",
+            "rbxassetid://17496671930",
+            "rbxassetid://17496679371",
+            "rbxassetid://17496671992",
+            "rbxassetid://17496672058",
+            "rbxassetid://17496682584",
+            "rbxassetid://17496680920",
+            "rbxassetid://17496683781",
+            "rbxassetid://17496683734",
+            "rbxassetid://17496672518",
+            "rbxassetid://17496672162",
+            "rbxassetid://17496680421"
+        ],
+        "SpawnChance": 1
+    },
+    "BNV K5 e60": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "BNV K5 e60",
+        "Price": {
+            "Min": 60000,
+            "Max": 90000
+        },
+        "Meshes": [
+            "rbxassetid://86037632036474",
+            "rbxassetid://116467639002913",
+            "rbxassetid://111576463312889",
+            "rbxassetid://94512370020960",
+            "rbxassetid://130974017846300",
+            "rbxassetid://119740239586926",
+            "rbxassetid://140268274601372",
+            "rbxassetid://77137608342068",
+            "rbxassetid://101095042203260",
+            "rbxassetid://93372122529328",
+            "rbxassetid://76266306335688"
+        ],
+        "SpawnChance": 0.5
+    },
+    "Lokswag Golo": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "Lokswag Golo",
+        "Price": {
+            "Min": 4000,
+            "Max": 8000
+        },
+        "Meshes": [
+            "rbxassetid://1115196543",
+            "rbxassetid://1126567944",
+            "rbxassetid://1115175802",
+            "rbxassetid://1126505474",
+            "rbxassetid://1115268581",
+            "rbxassetid://1115188246",
+            "rbxassetid://1115193537",
+            "rbxassetid://1115179021",
+            "rbxassetid://1115197067",
+            "rbxassetid://1115264764",
+            "rbxassetid://1115162686",
+            "rbxassetid://1116890173",
+            "rbxassetid://1116532422",
+            "rbxassetid://1116891169",
+            "rbxassetid://1116525801",
+            "rbxassetid://1127768985",
+            "rbxassetid://1127778923",
+            "rbxassetid://1127727735",
+            "rbxassetid://1127810865",
+            "rbxassetid://1115210670"
+        ],
+        "SpawnChance": 30
+    },
+    "Holde Inteiro": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "Holde Inteiro",
+        "Price": {
+            "Min": 9000,
+            "Max": 30000
+        },
+        "Meshes": [
+            "rbxassetid://123300005465288",
+            "rbxassetid://18578562082",
+            "rbxassetid://18578562104",
+            "rbxassetid://18578562441",
+            "rbxassetid://18578562390",
+            "rbxassetid://18578562129",
+            "rbxassetid://18578562510",
+            "rbxassetid://18578562469",
+            "rbxassetid://18578562299"
+        ],
+        "SpawnChance": 7
+    },
+     "Holde TipeRar": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Holde TipeRar",
+        "Price": {
+            "Min": 50000,
+            "Max": 90000
+        },
+        "Meshes": [
+            "rbxassetid://95055951399095",
+            "rbxassetid://117502521214559",
+            "rbxassetid://80208096460458",
+            "rbxassetid://93008373759581",
+            "rbxassetid://111863657574455",
+            "rbxassetid://81917800774751"
+        ],
+        "SpawnChance": 1
+    },
+    "Four Rex": {
+        "ProfitMultiplier": 0.1,
+        "BodyName": "Four Rex",
+        "Price": {
+            "Min": 60000,
+            "Max": 80000
+        },
+        "Meshes": [
+            "rbxassetid://82329899827009",
+            "rbxassetid://84158845710246",
+            "rbxassetid://127319621726279",
+            "rbxassetid://122327337963074",
+            "rbxassetid://116827869967624",
+            "rbxassetid://105795148118920"
+        ],
+        "SpawnChance": 1
+    },
+    "Chule Camarao": {
+        "ProfitMultiplier": 0.1,
+        "BodyName": "Chule Camarao",
+        "Price": {
+            "Min": 60000,
+            "Max": 100000
+        },
+        "Meshes": [
+            "rbxassetid://114627523692521",
+            "rbxassetid://102551712593774",
+            "rbxassetid://132368605523586",
+            "rbxassetid://79370424548519",
+            "rbxassetid://107240678846719",
+            "rbxassetid://121630639877922"
+        ],
+        "SpawnChance": 1
+    },
+    "Toyoda AFF67": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Toyoda AFF67",
+        "Price": {
+            "Min": 25000,
+            "Max": 55000
+        },
+        "Meshes": [
+            "rbxassetid://115740494899701",
+            "rbxassetid://79887094622940",
+            "rbxassetid://88067011442968",
+            "rbxassetid://92816782488056",
+            "rbxassetid://109048021757448",
+            "rbxassetid://125429694781931"
+        ],
+        "SpawnChance": 0
+    },
+    "Ontel Costa": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "Ontel Costa",
+        "Price": {
+            "Min": 700,
+            "Max": 3000
+        },
+        "Meshes": [
+            "rbxassetid://6250010455",
+            "rbxassetid://6249985330",
+            "rbxassetid://6250032607",
+            "rbxassetid://6247114761",
+            "rbxassetid://6249976527"
+        ],
+        "SpawnChance": 30
+    },
+    "Merquis SLX": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Merquis SLX",
+        "Price": {
+            "Min": 180000,
+            "Max": 280000
+        },
+        "Meshes": [
+            "rbxassetid://134050644142164",
+            "rbxassetid://120343476513530",
+            "rbxassetid://125026109462008",
+            "rbxassetid://102116860088124",
+            "rbxassetid://111001443006028",
+            "rbxassetid://76200222183573",
+            "rbxassetid://103870852164523",
+            "rbxassetid://130130975785724",
+            "rbxassetid://88849081918324",
+            "rbxassetid://111308750314987",
+            "rbxassetid://77536639565516"
+        ],
+        "SpawnChance": 0.05
+    },
+    "Auidy V4": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Auidy V4",
+        "Price": {
+            "Min": 12000,
+            "Max": 18000
+        },
+        "Meshes": [
+            "rbxassetid://11648998895",
+            "rbxassetid://11648999467",
+            "rbxassetid://11649004413",
+            "rbxassetid://11649002921",
+            "rbxassetid://121524847325659",
+            "rbxassetid://11649001837",
+            "rbxassetid://11649008843",
+            "rbxassetid://11649005319",
+            "rbxassetid://11649008714",
+            "rbxassetid://11649000384"
+        ],
+        "SpawnChance": 15
+    },
+    "Skami Truk": {
+        "ProfitMultiplier": 0.05,
+        "BodyName": "Skami Truk",
+        "Price": {
+            "Min": 120000,
+            "Max": 200000
+        },
+        "Meshes": [
+            "rbxassetid://91849293393970",
+            "rbxassetid://78160148446922",
+            "rbxassetid://127282509333536",
+            "rbxassetid://125721160832316",
+            "rbxassetid://135133351006437",
+            "rbxassetid://81779531624998"
+        ],
+        "SpawnChance": 1
+    },
+    "BNV K3 F": {
+        "ProfitMultiplier": 0.02,
+        "BodyName": "BNV K3 F",
+        "Price": {
+            "Min": 80000,
+            "Max": 120000
+        },
+        "Meshes": [
+            "rbxassetid://98551780030261",
+"rbxassetid://94171193063831",
+"rbxassetid://121155964298960",
+"rbxassetid://114037716812168",
+"rbxassetid://77809375142173",
+"rbxassetid://87411587809366",
+"rbxassetid://73585685317308",
+"rbxassetid://106793847794500",
+"rbxassetid://107314197349241",
+"rbxassetid://115244740690849",
+"rbxassetid://77630213328909",
+"rbxassetid://132642586006420",
+"rbxassetid://99129407436218",
+"rbxassetid://120784280252590",
+"rbxassetid://105434778845550",
+"rbxassetid://94696217144878",
+"rbxassetid://136670851693039",
+"rbxassetid://89351972050683",
+"rbxassetid://117064898107594",
+"rbxassetid://82693913115462",
+"rbxassetid://115299467871630",
+"rbxassetid://132098141455784",
+"rbxassetid://114540754267896",
+"rbxassetid://99931126783312",
+"rbxassetid://94464360672556",
+"rbxassetid://79562063359426",
+"rbxassetid://123935388241470",
+"rbxassetid://93851715644399",
+"rbxassetid://124896391994631",
+"rbxassetid://111252261526231",
+"rbxassetid://93141215218656",
+"rbxassetid://87361342202601",
+"rbxassetid://99136020341433",
+"rbxassetid://136121064249620"
+        ],
+        "SpawnChance": 1
+    },
+    "Missah 750x": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Missah 750x",
+        "Price": {
+            "Min": 30000,
+            "Max": 55000
+        },
+        "Meshes": [
+            "rbxassetid://1363086730",
+            "rbxassetid://1363114968",
+            "rbxassetid://1363118809",
+            "rbxassetid://1363011161",
+            "rbxassetid://1363123243",
+            "rbxassetid://1363095909",
+            "rbxassetid://1363083674",
+            "rbxassetid://1363121153",
+            "rbxassetid://1363077657",
+            "rbxassetid://1363029018",
+            "rbxassetid://11815906535",
+            "rbxassetid://1363111825"
+        ],
+        "SpawnChance": 1
+    },
+    "Siath Lion": {
+        "ProfitMultiplier": 0.5,
+        "BodyName": "Siath Lion",
+        "Price": {
+            "Min": 1500,
+            "Max": 4000
+        },
+        "Meshes": [
+            "rbxassetid://9337779225",
+            "rbxassetid://9337778691",
+            "rbxassetid://9337777500",
+            "rbxassetid://9337766967",
+            "rbxassetid://9337771539",
+            "rbxassetid://9337769477",
+            "rbxassetid://9337771890",
+            "rbxassetid://9337770541",
+            "rbxassetid://9337771015",
+            "rbxassetid://9337766591"
+        ],
+        "SpawnChance": 50
+    },
+    "Sabes Muito": {
+        "ProfitMultiplier": 0.4,
+        "BodyName": "Sabes Muito",
+        "Price": {
+            "Min": 7000,
+            "Max": 15000
+        },
+        "Meshes": [
+            "rbxassetid://124774767819816",
+            "rbxassetid://138887651889363",
+            "rbxassetid://135291414397395",
+            "rbxassetid://129622843645448",
+            "rbxassetid://119946063495964",
+            "rbxassetid://89493344230480"
+        ],
+        "SpawnChance": 40
+    },
+    "Xitro J3": {
+        "ProfitMultiplier": 0.4,
+        "BodyName": "Xitro J3",
+        "Price": {
+            "Min": 15000,
+            "Max": 20000
+        },
+        "Meshes": [
+            "rbxassetid://89884886746213",
+            "rbxassetid://107163496666807",
+            "rbxassetid://70655250312135",
+            "rbxassetid://88588603980148",
+            "rbxassetid://87206101186393",
+            "rbxassetid://128884869714185"
+        ],
+        "SpawnChance": 40
+    },
+    "Four Traffic": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Four Traffic",
+        "Price": {
+            "Min": 15000,
+            "Max": 30000
+        },
+        "Meshes": [
+            "rbxassetid://116603782287315",
+            "rbxassetid://97339709446239",
+            "rbxassetid://105979235510743",
+            "rbxassetid://116635276291482",
+            "rbxassetid://92115773260169",
+            "rbxassetid://129504768006742",
+            "rbxassetid://124323442939597",
+            "rbxassetid://135921231008614",
+            "rbxassetid://140444148372557",
+            "rbxassetid://137548976411901",
+            "rbxassetid://93039823106729",
+            "rbxassetid://84430171046594",
+            "rbxassetid://132878939887436"
+        ],
+        "SpawnChance": 6
+    },
+    "Merquis ZLA 45": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Merquis ZLA 45",
+        "Price": {
+            "Min": 50000,
+            "Max": 70000
+        },
+        "Meshes": [
+            "rbxassetid://111175820855797",
+            "rbxassetid://97534432741896",
+            "rbxassetid://97106522660731",
+            "rbxassetid://88168726227480",
+            "rbxassetid://133340247441931",
+            "rbxassetid://109024704378579",
+            "rbxassetid://112660713192764",
+            "rbxassetid://97228022942836",
+            "rbxassetid://112677619018491",
+            "rbxassetid://70537070086025",
+            "rbxassetid://77449207943282",
+            "rbxassetid://79309768185472"
+        ],
+        "SpawnChance": 0
+    },
+    "BNV K3 e92": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "BNV K3 e92",
+        "Price": {
+            "Min": 45000,
+            "Max": 60000
+        },
+        "Meshes": [
+            "rbxassetid://76562870049311",
+            "rbxassetid://103628581876873",
+            "rbxassetid://139224136820319",
+            "rbxassetid://14091796546"
+        ],
+        "SpawnChance": 1
+    },
+    "Toyoda Supwa": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Toyoda Supwa",
+        "Price": {
+            "Min": 70000,
+            "Max": 120000
+        },
+        "Meshes": [
+            "rbxassetid://109626085950821",
+            "rbxassetid://98914027803456",
+            "rbxassetid://116847798880478",
+            "rbxassetid://118101296746088",
+            "rbxassetid://119256003553714",
+            "rbxassetid://111790040264023",
+            "rbxassetid://119140323671950",
+            "rbxassetid://134645365300661",
+            "rbxassetid://84857069583305",
+            "rbxassetid://70534932163564",
+            "rbxassetid://101978323488227",
+            "rbxassetid://138244896959887",
+            "rbxassetid://125009250761444",
+            "rbxassetid://106276229996032"
+        ],
+        "SpawnChance": 0
+    },
+    "Toyoda Yapp": {
+        "ProfitMultiplier": 0.2,
+        "BodyName": "Toyoda Yapp",
+        "Price": {
+            "Min": 25000,
+            "Max": 55000
+        },
+        "Meshes": [
+            "rbxassetid://100241975488776",
+			"rbxassetid://129891373401232",
+			"rbxassetid://102140766221395",
+			"rbxassetid://133909247489951",
+			"rbxassetid://94257470373873",
+			"rbxassetid://134975767302840",
+			"rbxassetid://97746362223088",
+			"rbxassetid://89967396671271",
+			"rbxassetid://109743353924401",
+			"rbxassetid://131054513646913",
+			"rbxassetid://92596761217192",
+			"rbxassetid://138120324441172"
+        ],
+        "SpawnChance": 0.2
+    },
+    "Lokswag Passar": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Lokswag Passar",
+        "Price": {
+            "Min": 8000,
+            "Max": 14000
+        },
+        "Meshes": [
+            "rbxassetid://118641454331467",
+            "rbxassetid://100486625251004",
+            "rbxassetid://82409481609000",
+            "rbxassetid://131104363262176",
+            "rbxassetid://126368809511076",
+            "rbxassetid://71252826477287",
+            "rbxassetid://97043515833235",
+            "rbxassetid://82509861807877",
+            "rbxassetid://84226021046038",
+            "rbxassetid://109430826339734",
+            "rbxassetid://79527974084929",
+            "rbxassetid://130461466236207",
+            "rbxassetid://96572824795297"
+        ],
+        "SpawnChance": 20
+    },
+    "Renas Kapturado": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Renas Kapturado",
+        "Price": {
+            "Min": 5000,
+            "Max": 11000
+        },
+        "Meshes": [
+            "rbxassetid://5420352981",
+            "rbxassetid://5420359265",
+            "rbxassetid://5420420684",
+            "rbxassetid://5420358303",
+            "rbxassetid://111790656504164",
+            "rbxassetid://92332700755201"
+        ],
+        "SpawnChance": 30
+    },
+    "Matsu Lanca": {
+    "ProfitMultiplier": 0.3,
+    "BodyName": "Matsu Lanca",
+    "Price": {
+        "Min": 15000,
+        "Max": 55000
+    },
+    "Meshes": [
+            "rbxassetid://94432032174406",
+            "rbxassetid://131472938218828",
+            "rbxassetid://87466975687169",
+            "rbxassetid://77328551090217",
+            "rbxassetid://129263302691265",
+            "rbxassetid://107199793807474",
+            "rbxassetid://85724343119321",
+            "rbxassetid://93959892461442",
+            "rbxassetid://135380198945332",
+            "rbxassetid://133695977243918",
+            "rbxassetid://126692429227602",
+            "rbxassetid://102627715765399"
+        ],
+        "SpawnChance": 2
+    },
+    "Lokswag Golo MK4": {
+    "ProfitMultiplier": 0.2,
+    "BodyName": "Lokswag Golo MK4",
+    "Price": {
+        "Min": 12000,
+        "Max": 17000
+    },
+    "Meshes": [
+            "rbxassetid://126937837680876",
+            "rbxassetid://89043039053467",
+            "rbxassetid://132009749265746"
+        ],
+        "SpawnChance": 15
+    },
+    "Lokswag Golo MK5": {
+    "ProfitMultiplier": 0.2,
+    "BodyName": "Lokswag Golo MK5",
+    "Price": {
+        "Min": 17000,
+        "Max": 25000
+    },
+    "Meshes": [
+            "rbxassetid://80854106813739",
+            "rbxassetid://80816077887262",
+            "rbxassetid://84287347643484",
+            "rbxassetid://79902151973939",
+            "rbxassetid://129155010341390",
+            "rbxassetid://89074571172175"
+        ],
+        "SpawnChance": 7
+    },
+    "Auidy RF3 Sedan": {
+    "ProfitMultiplier": 0.2,
+    "BodyName": "Auidy RF3 Sedan",
+    "Price": {
+        "Min": 70000,
+        "Max": 90000
+    },
+    "Meshes": [
+            "rbxassetid://105698311330357",
+            "rbxassetid://126062950834220",
+            "rbxassetid://94806825943633",
+            "rbxassetid://133682890470184",
+            "rbxassetid://120184750920893",
+            "rbxassetid://72138290178230"
+        ],
+        "SpawnChance": 0.3
+    },
+    "Merquis C203": {
+    "ProfitMultiplier": 0.25,
+    "BodyName": "Merquis C203",
+    "Price": {
+        "Min": 9000,
+        "Max": 22000
+    },
+    "Meshes": [
+            "rbxassetid://127141943605799",
+            "rbxassetid://133970585526948",
+            "rbxassetid://122486272716044",
+            "rbxassetid://98413624067452",
+            "rbxassetid://134036939104883",
+            "rbxassetid://109346768977415",
+            "rbxassetid://97917119225494",
+            "rbxassetid://97550525984328"
+        ],
+        "SpawnChance": 7
+    }
+}
