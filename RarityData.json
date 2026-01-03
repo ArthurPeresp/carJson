@@ -1,0 +1,31 @@
+﻿{
+  "RarityColors": {
+    "Common": [180, 180, 180],
+    "Uncommon": [80, 200, 80],
+    "Rare": [80, 150, 255],
+    "Epic": [180, 80, 220],
+    "Legendary": [255, 180, 60],
+    "Mythical": [255, 80, 80],
+    "Event": [255, 0, 0],
+    "Offsale": [0, 0, 0]
+  },
+  "RarityList": [
+    { "SpawnChance": 30, "Name": "Common", "Color": [180, 180, 180] },
+    { "SpawnChance": 15, "Name": "Uncommon", "Color": [80, 200, 80] },
+    { "SpawnChance": 7, "Name": "Rare", "Color": [80, 150, 255] },
+    { "SpawnChance": 3, "Name": "Epic", "Color": [180, 80, 220] },
+    { "SpawnChance": 1, "Name": "Legendary", "Color": [255, 180, 60] },
+    { "SpawnChance": 0, "Name": "Mythical", "Color": [255, 80, 80] },
+    { "SpawnChance": 0, "Name": "Offsale", "Color": [0, 0, 0] }
+  ],
+  "RarityMap": {
+    "Common": { "Name": "Common", "Color": [180, 180, 180] },
+    "Uncommon": { "Name": "Uncommon", "Color": [90, 200, 90] },
+    "Rare": { "Name": "Rare", "Color": [80, 150, 255] },
+    "Epic": { "Name": "Epic", "Color": [180, 90, 255] },
+    "Legendary": { "Name": "Legendary", "Color": [255, 170, 0] },
+    "Mythical": { "Name": "Mythical", "Color": [255, 80, 80] },
+    "Event": { "Name": "Event", "Color": [255, 0, 0] },
+    "Offsale": { "Name": "Offsale", "Color": [0, 0, 0] }
+  }
+}
