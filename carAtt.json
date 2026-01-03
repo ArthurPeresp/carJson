@@ -712,6 +712,23 @@
         ],
         "SpawnChance": 1
     },
+    "Fia-Te Alberto 300": {
+        "ProfitMultiplier": 0.3,
+        "BodyName": "Fia-Te Alberto 300",
+        "Price": {
+            "Min": 18000,
+            "Max": 30000
+        },
+        "Meshes": [
+            "rbxassetid://123304524059246",
+            "rbxassetid://91675228109325",
+            "rbxassetid://139054072501839",
+            "rbxassetid://113336717210390",
+            "rbxassetid://89707099515837",
+            "rbxassetid://96674446528262"
+        ],
+        "SpawnChance": 3
+    },
     "Siath Lion": {
         "ProfitMultiplier": 0.5,
         "BodyName": "Siath Lion",
